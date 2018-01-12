@@ -1,5 +1,5 @@
 # BeaTicks
-![Hallo](Project_Ressources/Schriftzug.png)
+![Hallo](Project_Ressources/Schriftz5ug.png)
 
 # Authors
 
