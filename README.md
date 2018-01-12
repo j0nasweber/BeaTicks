@@ -1,4 +1,5 @@
 # BeaTicks
+![Hallo](BeaTicks/Project Ressources/Schriftzug_2.png)
 
 # Authors
 
