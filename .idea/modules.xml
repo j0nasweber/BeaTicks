@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PulsGrapher.iml" filepath="$PROJECT_DIR$/PulsGrapher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BeaTicks.iml" filepath="$PROJECT_DIR$/.idea/BeaTicks.iml" />
     </modules>
   </component>
 </project>
