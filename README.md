@@ -2,10 +2,8 @@
 ![png](Project_Ressources/Schriftzug.png)
 
 # Project
-Task:
+Arduino-Code
 
 # Authors
 5AHEL/5BHEL HTL-Steyr 2017/18
 
-# Licence
-This project is licensed
